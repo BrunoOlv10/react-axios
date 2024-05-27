@@ -1,0 +1,9 @@
+.details-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.btn-details {
+    max-width: 50px;
+    margin-bottom: ;
+}
